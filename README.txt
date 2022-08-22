@@ -7,14 +7,12 @@ WHAT DO YOU NEED TO USE Autodraw :
 -PIL's library, you get it by typing "pip install Pillow" in your CMD.
 Every other libraries are already in the folder, DO NOT DELETE THE FILES AND FOLDER.
 
-FIRST:
-Launch the Configuration.py script to configure all the colors.
-You have to put the number of colors and click on "configure"
-The mouse will go to the down / right corner of your screen, but it's expected.
-After that, just click on all colors one by one.
 
 HOW TO USE AUTODRAW:
 Launch Autodraw.py
+Open the "Configuration" page, enter the number of color you want to register, then click "Start". You can now click on all the colors on the screen one by one.
+
+You can now open the "Picture" page.
 Paste the image's link in the entry zone.
 Choose where the photo will start and where it will stop by clicking on "Set Start and End", you just have to click on two different places of the virtual canvas.
 If the background of the virtual canvas is not already white, you can check "Draw white pixels"

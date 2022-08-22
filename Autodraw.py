@@ -1,5 +1,5 @@
 """
-Autodraw, by Fabetsol (last modification : 27/08/2021)
+Autodraw, by Fabetsol (last modification : 22/08/2022; Previous modification : 27/08/2021)
 Please, do not repost.
 Read the "README.txt" file to learn how to use Autodraw.
 """
